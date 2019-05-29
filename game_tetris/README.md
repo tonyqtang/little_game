@@ -1,5 +1,4 @@
 # EE551project_Tetris
----
 
 ## Rules
 Different shaped blocks fall from the top of the screen, the player can adjust blocks' direction and position. when the block fall to the bottom or it touches another exist blocks, it lands and stops. Everytime player complete a row with no gaps in it, the row disappears and all rows above it move down and player scores 1 point. The player keeps gaining points until the exists blocks touch the top of the screen.
@@ -30,5 +29,5 @@ You can use Python's built-in IDLE to open the main.py file and click run to run
 ---
 
 
-P.S. There is a game I really like in my phone called "1010!". It's similar to Tetris with different types of blocks. But you need to drag the block to its position instead of watching it falling down and it will erase all complete rows and columns. I'd like to try it when I learn how to write the classic one.   (working on it)                
+> P.S. There is a game I really like in my phone called "1010!". It's similar to Tetris with different types of blocks. But you need to drag the block to its position instead of watching it falling down and it will erase all complete rows and columns. I'd like to try it when I learn how to write the classic one.   (working on it)                
 
